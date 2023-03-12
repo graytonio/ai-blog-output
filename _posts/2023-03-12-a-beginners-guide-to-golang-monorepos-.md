@@ -1,5 +1,3 @@
-# A Beginners Guide to Golang Monorepos
-
 ---
 title: A Beginners Guide to Golang Monorepos 
 categories: [Programming, Golang]
