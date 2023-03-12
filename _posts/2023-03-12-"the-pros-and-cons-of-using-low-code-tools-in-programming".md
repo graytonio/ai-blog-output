@@ -1,10 +1,9 @@
-```
 ---
 title: "The Pros and Cons of Using Low-Code Tools in Programming"
 categories: [Programming]
 tags: [low-code, programming, software development]
 ---
-```
+
 
 Low-code programming is becoming more and more popular as businesses and organizations look for ways to streamline and accelerate their software development processes. Low-code tools allow developers to create applications without having to write lines of code from scratch, but rather by using visual drag-and-drop interfaces and pre-built components. While low-code promises to speed up development and reduce costs, there are pros and cons to consider before adopting it fully.
 
