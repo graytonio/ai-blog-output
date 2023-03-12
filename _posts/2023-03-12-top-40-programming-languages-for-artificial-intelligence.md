@@ -1,5 +1,3 @@
-
-
 ---
 title: Top 5 Programming Languages for Artificial Intelligence
 categories: [Programming, Artificial Intelligence]
