@@ -1,5 +1,3 @@
-
-
 ---
 title: Understanding Git Branching
 categories: [Programming]
